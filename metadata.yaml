@@ -1,0 +1,29 @@
+_repo: Trouble-on-Titan_68076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    alias: Liddell, C. H.
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
+description: ''
+gutenberg_issued: '2022-05-14'
+identifiers:
+  gutenberg: '68076'
+language: en
+pgterms:marc905: 20220512080249kuttner
+pgterms:marc906: '1946'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan, Alex White and the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: United States :Standard Magazines, Inc.,1946.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trouble on Titan
+url: http://www.gutenberg.org/ebooks/68076
